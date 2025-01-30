@@ -36,6 +36,10 @@ p {
     font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 }
 
+.camp {
+	margin-bottom:90px;
+}
+
 footer { 
 	color:gray;
     text-align:right;
