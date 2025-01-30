@@ -1,3 +1,44 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+	background-color:black;
+	color:white;
+	text-align: center;
+}
+
+.Firstheader { 
+font-size:50px;
+font-weight:normal;
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+a {
+	color:aquamarine;
+	font-size:16px;
+}
+
+.Secondheader { 
+font-size:42px;
+font-weight:300;
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.Thirdheader { 
+font-size:42px;
+font-weight:300;
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+p {
+	font-size:21px;
+	color:gray;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+footer { 
+	color:gray;
+    text-align:right;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
